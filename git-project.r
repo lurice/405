@@ -7,7 +7,7 @@ my_name <- subset(names, name == "Lu" & sex == "girl")
 
 # plotting my name's popularity over time
 library(ggplot2)
-qplot(year, prop, data = my_name, geom = "line", main = "Percentage of children named Lu, by year")
+qplot(year, prop, data = my_name, geom = "line", main = "Percentage of children named Lu2, by year")
 
 
 # for later
