@@ -1,4 +1,4 @@
-# git project
+# git project, trial 2
 
 names <- read.csv("baby-names.csv", header = T, stringsAsFactors = F)
 
